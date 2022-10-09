@@ -32,7 +32,7 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github.com/jatindalal875/BanallBot.svg"> <img src="https://img.shields.io/github/forks/jatindalal875/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
+<img src="https://img.shields.io/github.com/jatindalal875/BanallBot.svg"> <img src="https://img.shields.io/github/forks/jatindalal875/BanallBot.svg"> <img src="https://img.shields.io/github/stars/jatindalal875/BanallBot.svg">
 <a href="https://github.com/jatindalal875/BanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jatindalal875&repo=BanallBot&theme=blue-green"></a>
 <a href="https://github.com/jatindalal875/BanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
 </P>
@@ -48,7 +48,7 @@
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/india_united_support"><img src="https://img.shields.io/badge/Support%20%20Group-red?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
