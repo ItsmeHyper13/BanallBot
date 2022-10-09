@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/ItsmeHyper13/BanallBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/jatindalal875/BanallBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-brown?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
@@ -32,9 +32,9 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
-<a href="https://github.com/ItsmeHyper13/BanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
-<a href="https://github.com/ItsmeHyper13/BanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github.com/jatindalal875/BanallBot.svg"> <img src="https://img.shields.io/github/forks/jatindalal875/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
+<a href="https://github.com/jatindalal875/BanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jatindalal875&repo=BanallBot&theme=blue-green"></a>
+<a href="https://github.com/jatindalal875/BanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
@@ -52,8 +52,8 @@
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
-<a href = "https://github.com/ItsmeHyper13/BanallBot/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=ItsmeHyper13/BanallBot" height="30px"/>
+<a href = "https://github.com/jatindalal875/BanallBot/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=jatindalal875/BanallBot" height="30px"/>
 </a><br><br>
 <strong>Made with <a href="https://python.org"><code>Python🐍</code></a></strong>
 </p>
